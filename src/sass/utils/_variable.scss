@@ -1,26 +1,18 @@
 :root {
   /*Fonts*/
-  --main-font-family: 'Montserrat', sans-serif;
+  --main-font-family: 'Poppins', sans-serif;
 
   /*Colors*/
   --main-dark-color: #000;
   --main-light-color: #fff;
-  --main-dark-text-color: #131313;
-  --main-light-text-color: #fcfcfc;
-  --background-color: #84a178;
-  --current-color: #f8d24e;
-  --hover-focus-color: #0a8817;
-  --button-disabled-color: #ababab;
-  --background-product-color1: #aec6a5;
-  --background-product-color2: #efd478;
-  --background-product-color3: #d6936d;
-  --border-imput-color: #84a178;
-  --background-imput-color: rgba(248, 210, 78, 0.1);
-  --slider-color: #d9d9d9;
-  --slider-active-color: #84a178;
-  --main-color: #757575;
-  --secondary-color: #212121;
-
+  --main-text-color: #252525;
+  --background-color: #FCFCFC;
+  --main-block-color: #FFFFFF;
+  --accent-color: #499F5B;
+  --hover-focus-color: #64E77F;
+  --error-color: #EA4335;
+  --table-color1: #F3F7F4;
+ 
   /* Transitions*/
   --timing-function: cubic-bezier(0.4, 0, 0.2, 1);
   --timing-duration: 250ms;
